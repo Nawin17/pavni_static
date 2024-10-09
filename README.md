@@ -1,0 +1,1 @@
+# pavni_static
